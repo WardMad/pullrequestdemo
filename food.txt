@@ -2,3 +2,6 @@ rice
 noodles
 sushi
 pasta
+pizza
+Tolma
+bami nasi
